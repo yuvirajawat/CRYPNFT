@@ -1,12 +1,8 @@
-#CRYPNFT
+# CRYPNFT
 
 Created a decentralised crypto token ”DCT” from scratch on ICP blockchain
-network using back-end logic in Motoko smart contracts.
-
-Developed a NFT marketplace using React and Motoko where users can
-discover NFT collections, buy from it , mint NFTs and list their NFT’s for sell.
-
-Integrated the DCT token wallet as payment method for the transcations.
+network using back-end logic in Motoko smart contracts. Developed a NFT marketplace using React and Motoko where users can
+discover NFT collections, buy from it , mint NFTs and list their NFT’s for sell. Integrated the DCT token wallet as payment method for the transcations.
 
 # To Install and Run the Project
 
