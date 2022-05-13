@@ -61,3 +61,17 @@ dfx canister call <NFT_CANISTER_PRINCIPAL_ID> transferOwnership '(principal "<YO
 ```
 const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ```
+# To make calls to DCT token wallet
+
+ 1. Update node modules
+  
+  ```
+  npm install
+  ```
+  
+ 2. Deploy on local network
+  
+  ```
+  dfx deploy
+  ```
+  
