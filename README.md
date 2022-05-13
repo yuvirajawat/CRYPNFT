@@ -74,4 +74,13 @@ const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
   ```
   dfx deploy
   ```
+ 3. Start frontend
+ 
+ ```
+ npm start
+ ```
+ 
+ 4. Head to LocalHost 8081
+ 
+ http://localhost:8081/
   
