@@ -48,12 +48,6 @@ Please follow the link below about section or follow link below
 3. Minting NFT
 
 <img 
-    src="screenshots/selectionimage.png" 
-    width="75%" 
-    height="100%"
-/>
-
-<img 
     src="screenshots/mintloader.png" 
     width="75%" 
     height="100%"
