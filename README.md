@@ -8,7 +8,7 @@ discover NFT collections, buy from it , mint NFTs and list their NFT’s for sel
 
 Please follow the link below about section or follow link below
 
-<a href="https://www.youtube.com/watch?v=yfBLWYz0f-8">Click here for Demo</a>
+<a href="https://bit.ly/3laycJr">Click here for Demo</a>
 
 # Features
 
