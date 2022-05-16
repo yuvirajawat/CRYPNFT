@@ -27,6 +27,94 @@ Please follow the link below about section or follow link below
 1. Frontend: HTML, CSS, ES6, JavaScript, react, react-router, react-hooks
 2. Backend: Motoko smart contracts and internet computer
 
+# Screenshots
+
+1. DCT Token Wallet
+
+<img 
+    src="screenshots/dct-wallet.png" 
+    width="75%" 
+    height="100%"
+/>
+
+2. Homepage
+
+<img 
+    src="screenshots/homepage.png" 
+    width="75%" 
+    height="100%"
+/>
+
+3. Minting NFT
+
+<img 
+    src="screenshots/selectionImage.png" 
+    width="75%" 
+    height="100%"
+/>
+
+<img 
+    src="screenshots/minter.png" 
+    width="75%" 
+    height="100%"
+/>
+
+<img 
+    src="screenshots/mint-success.png" 
+    width="75%" 
+    height="100%"
+/>
+
+4. Discover 
+
+<img 
+    src="screenshots/discover-section.png" 
+    width="75%" 
+    height="100%"
+/>
+
+5. My collection
+
+<img 
+    src="screenshots/my-collection.png" 
+    width="75%" 
+    height="100%"
+/>
+
+6. Bought NFT from discover transfered to my collection
+
+<img 
+    src="screenshots/bought-nft-in-collection.png" 
+    width="75%" 
+    height="100%"
+/>
+
+7. Wallet balance down by 4 DCT for buying NFT
+
+<img 
+    src="screenshots/transactio.png" 
+    width="75%" 
+    height="100%"
+/>
+
+8. Setting price for sale
+
+<img 
+    src="screenshots/setting-price.png" 
+    width="75%" 
+    height="100%"
+/>
+
+9. Sale confirm
+
+<img 
+    src="screenshots/sell-confirm.png" 
+    width="75%" 
+    height="100%"
+/>
+
+
+
 # To Install and Run the Project
 
 1. start local dfx
