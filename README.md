@@ -32,7 +32,7 @@ Please follow the link below about section or follow link below
 1. DCT Token Wallet
 
 <img 
-    src="screenshots/dct-wallet.png" 
+    src="screenshots/dctwallet.png" 
     width="75%" 
     height="100%"
 />
@@ -40,7 +40,7 @@ Please follow the link below about section or follow link below
 2. Homepage
 
 <img 
-    src="screenshots/homepage.png" 
+    src="screenshots/home-page.png" 
     width="75%" 
     height="100%"
 />
@@ -48,19 +48,19 @@ Please follow the link below about section or follow link below
 3. Minting NFT
 
 <img 
-    src="screenshots/selectionImage.png" 
+    src="screenshots/selectionimage.png" 
     width="75%" 
     height="100%"
 />
 
 <img 
-    src="screenshots/minter.png" 
+    src="screenshots/mintloader.png" 
     width="75%" 
     height="100%"
 />
 
 <img 
-    src="screenshots/mint-success.png" 
+    src="screenshots/mintsuccess.png" 
     width="75%" 
     height="100%"
 />
@@ -68,7 +68,7 @@ Please follow the link below about section or follow link below
 4. Discover 
 
 <img 
-    src="screenshots/discover-section.png" 
+    src="screenshots/discoversection.png" 
     width="75%" 
     height="100%"
 />
@@ -76,7 +76,7 @@ Please follow the link below about section or follow link below
 5. My collection
 
 <img 
-    src="screenshots/my-collection.png" 
+    src="screenshots/mycollection.png" 
     width="75%" 
     height="100%"
 />
@@ -84,7 +84,7 @@ Please follow the link below about section or follow link below
 6. Bought NFT from discover transfered to my collection
 
 <img 
-    src="screenshots/bought-nft-in-collection.png" 
+    src="screenshots/bought-nft.png" 
     width="75%" 
     height="100%"
 />
@@ -92,7 +92,7 @@ Please follow the link below about section or follow link below
 7. Wallet balance down by 4 DCT for buying NFT
 
 <img 
-    src="screenshots/transactio.png" 
+    src="screenshots/transaction.png" 
     width="75%" 
     height="100%"
 />
@@ -100,7 +100,7 @@ Please follow the link below about section or follow link below
 8. Setting price for sale
 
 <img 
-    src="screenshots/setting-price.png" 
+    src="screenshots/settingprice.png" 
     width="75%" 
     height="100%"
 />
@@ -108,7 +108,7 @@ Please follow the link below about section or follow link below
 9. Sale confirmed
 
 <img 
-    src="screenshots/sell-confirm.png" 
+    src="screenshots/sellconfirm.png" 
     width="75%" 
     height="100%"
 />
