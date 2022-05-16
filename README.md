@@ -105,7 +105,7 @@ Please follow the link below about section or follow link below
     height="100%"
 />
 
-9. Sale confirm
+9. Sale confirmed
 
 <img 
     src="screenshots/sell-confirm.png" 
